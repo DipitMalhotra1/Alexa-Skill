@@ -1,0 +1,12 @@
+{
+  "name": "skill",
+  "version": "0.0.1",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "date-and-time": "^0.4.1",
+    "dateformat": "^2.0.0",
+    "http": "0.0.0",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  }
+}

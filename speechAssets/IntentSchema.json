@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "Interview",
+      "slots": [
+        {
+          "name": "D",
+          "type": "AMAZON.DATE"
+        }
+
+      ]
+    },
+
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
